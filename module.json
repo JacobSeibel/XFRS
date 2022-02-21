@@ -113,7 +113,7 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/JacobSeibel/XFRS/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/JacobSeibel/XFRS/master/module.json?token=GHSAT0AAAAAABPKG4IXGM5CF4C47HMPS7HQYQT7Y2Q",
   "download": "https://github.com/JacobSeibel/XFRS/raw/master/XFRS-Dist.zip",
   "protected": false,
   "coreTranslation": false,
