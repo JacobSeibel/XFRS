@@ -1,0 +1,121 @@
+{
+  "name": "extended-family-resource-share",
+  "title": "My Content Module",
+  "description": "A collection of resources shared by GMs in the Extended Family Discord.",
+  "author": "Me",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "xfrs-bags",
+      "label": "XFRS Bags",
+      "path": "./packs/bags.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-economy",
+      "label": "XFRS Economy",
+      "path": "./packs/economy.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-features",
+      "label": "XFRS Features",
+      "path": "./packs/features.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-items",
+      "label": "XFRS Items",
+      "path": "./packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-jousting",
+      "label": "XFRS Jousting",
+      "path": "./packs/jousting.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-location-scenes",
+      "label": "XFRS Location Scenes",
+      "path": "./packs/location-scenes.db",
+      "entity": "Scene",
+      "type": "Scene",
+      "private": false
+    },
+    {
+      "name": "xfrs-macros",
+      "label": "XFRS Macros",
+      "path": "./packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro",
+      "private": false
+    },
+    {
+      "name": "xfrs-monster-features",
+      "label": "XFRS Monster Features",
+      "path": "./packs/monster-features.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-monsters",
+      "label": "XFRS Monsters",
+      "path": "./packs/my-monsters.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "name": "xfrs-random-encounter-scenes",
+      "label": "XFRS Random Encounter Scenes",
+      "path": "./packs/random-encounter-scenes.db",
+      "entity": "Scene",
+      "type": "Scene",
+      "private": false
+    },
+    {
+      "name": "xfrs-spells",
+      "label": "XFRS Spells",
+      "path": "./packs/spells.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "xfrs-wounds",
+      "label": "XFRS Wounds",
+      "path": "./packs/wounds.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/JacobSeibel/XFRS/master/module.json",
+  "download": "https://github.com/JacobSeibel/XFRS/raw/master/XFRS-Dist.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
